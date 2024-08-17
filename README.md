@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         </a>
     </div>
     <h1>
-        Hey! I'm Jonathan Lee - Welcome to my Github!
+        Hey! Welcome to my Github!
     </h1>
 </div>
 
