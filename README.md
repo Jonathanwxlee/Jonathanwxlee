@@ -10,7 +10,6 @@
     </h1>
 </div>
 
----
 ### About Me :
 
 - 📚 I am a senior at Rice University (graduating May 2025) majoring in computer science with a minor in data science
