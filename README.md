@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! I'm Jonathan Lee - Senior at Rice University, Class of 2025! 👋
 
 <!--
 **Jonathanwxlee/Jonathanwxlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
