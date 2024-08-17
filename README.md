@@ -22,5 +22,8 @@ Here are some ideas to get you started:
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
+    <h1>
+        Hey! I'm Jonathan Lee - Welcome to my Github!
+    </h1>
 </div>
 
