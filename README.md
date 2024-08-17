@@ -6,11 +6,11 @@
         </a>
     </div>
     <h1>
-        Hey! Welcome to my GitHub!
+        Welcome to my GitHub! 👋🏼
     </h1>
 </div>
 
-### About Me :
+### About Me:
 
 - 📚 I am a senior at Rice University (graduating May 2025) majoring in computer science with a minor in data science
 
@@ -29,7 +29,7 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanwxlee/) or email: Jonathanwxlee@gmail.com
 
 ---
-### Languages and Tools Used in my GitHub
+### Languages and Tools Used in my GitHub:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
