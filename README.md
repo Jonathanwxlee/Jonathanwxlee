@@ -43,5 +43,5 @@
 
 ---
 ### GitHub Stats:
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jonathanwxlee&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwxlee&layout=compact&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jonathanwxlee&show_icons=true&hide=contribs,issues&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwxlee&layout=compact&show_icons=true&hide_border=true" />
