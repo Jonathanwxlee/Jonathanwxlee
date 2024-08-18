@@ -1,13 +1,12 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <h1>
+        Welcome to my GitHub! 👋🏼
+    </h1>
     <div id="badges" align="center">
         <a href="https://www.linkedin.com/in/jonathanwxlee/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
-    <h1>
-        Welcome to my GitHub! 👋🏼
-    </h1>
 </div>
 
 ### About Me:
@@ -26,7 +25,7 @@
 
 - 💻 Learn more on my website! (coming soon...)
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanwxlee/) or email: Jonathanwxlee@gmail.com
+- 📫 Feel free to reach out! Email: Jonathanwxlee@gmail.com
 
 ---
 ### Languages and Tools Used in my GitHub:
@@ -40,5 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwxlee&layout=compact&show_icons=true" />
 
