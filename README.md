@@ -15,8 +15,6 @@
 
 - 🧠 Passionate about AI and deep learning model interpretability, using models not just for functional purposes, but as tools to explore how humans process information subconsciously. 
 
-- 🔎 Currently pursuing computer vision research under Professor Guha Balakrishnan at Rice University 
-
 - 💼 Seeking full-time roles after my graduation in May 2025!
 
 - 📡 Previous 2x SWE intern at Verizon (Summer 2023, Summer 2024)
